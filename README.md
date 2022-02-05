@@ -3,4 +3,6 @@
 Projeto desenvolvido em bootcamp de WEB Developer da Digital Innovation One.
 Professora https://github.com/SpruceGabriela.
 
-HTML5 CSS3 JavaScript
+HTML5<br> 
+CSS3 <br> 
+JavaScript<br> 
